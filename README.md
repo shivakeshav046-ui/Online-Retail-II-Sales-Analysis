@@ -20,3 +20,4 @@ This project analyzes the **Online Retail II** dataset using **Python, Pandas, a
 The project focuses on exploring retail sales data and building a business dashboard using Matplotlib visualizations. The analysis provides insights into sales performance, customer behavior, product performance, order trends, and country-wise sales through clear and informative charts.
 
 The objective of this project is to transform raw transactional data into meaningful business insights using data analysis and visualization techniques.
+ 
